@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
-  "notes": "fresh_release",
-  "pub_date": "2026-09-02T18:30:00Z",
+  "version": "0.1.0",
+  "notes": "Initial public release of the AOS GM Dashboard.",
+  "pub_date": "2026-09-02T17:30:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "SIGNATURE_OF_THE_NEW_BUILD",
-      "url": "https://github.com/YourUsername/war-games-data/releases/download/v1.1.0/War-Manager_1.1.0_x64_en-US.msi.zip"
+      "url": "https://github.com/drcolourofficial/aos_gm_dashboard/releases/download/v0.1.0/aos_gm_dashboard_0.1.0_x64_en-US.msi.zip"
     }
   }
 }
