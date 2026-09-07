@@ -10,7 +10,7 @@ A standalone desktop application built for Game Masters to track continental mil
 
 ---
 
-## Installation & Setup for Players
+## Installation & Setup 
 
 1. Download the latest `.msi` or setup installer from the [Releases Page]
 2. Run the installer to place the app on your desktop.
@@ -23,5 +23,5 @@ A standalone desktop application built for Game Masters to track continental mil
 
 ## For Game Masters (Pushing Updates)
 1. Go to the **⚙ Settings** tab in the app.
-2. Configure your repository path, target file (`master_data.json`), and paste your GitHub **Personal Access Token (PAT)** with `repo` scopes.
+2. Configure your repository path, target file (`master_data.json`), and paste your GitHub **Personal Access Token (PAT)** with `repo` scopes (you need to get this from Colour).
 3. Click **⬆ Push to Repo** on the Dashboard to save your campaign's global state online.
