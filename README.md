@@ -1,4 +1,4 @@
-# GM Campaign & Skirmish Manager
+# AOS GM Dashboard
 
 A standalone desktop application built for Game Masters to track continental milestones, fortify critical locations, manage asymmetrical war campaigns, and fight modular skirmishes.
 
