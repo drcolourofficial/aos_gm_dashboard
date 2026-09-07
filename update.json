@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUb1ZidE5jbjVvSkFnRVZwM3BVWGhhaWVjc3l1alE4WllBS2UrSEp6NmpNdzFrRzZ3NnA1N1NEaUFJb3E0NFdWREhOaWlDRFltSDd4MjF6YUpLT1NLOVh5RVVwVjhDdlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzQyNjMyCWZpbGU6YW9zX2dtX2Rhc2hib2FyZF8wLjEuMF94NjRfZW4tVVMubXNpCk1GSEVnV2ZTUlBRd2xPSEdkZ2VnOWNCVjNIZS9qYnd2dEFwd3NSRVB3MXh3QzdmdHNiUU9PbVR2ZEF5SHJZc2FUTU5tR2lnelZNa2dOWDJlTWtHYUFBPT0K",
-      "url": "https://github.com/drcolourofficial/aos_gm_dashboard/releases/download/v0.1.0/aos_gm_dashboard_0.1.0_x64_en-US.msi.zip"
+      "url": "https://github.com/drcolourofficial/aos_gm_dashboard/releases/download/0.1.0/aos_gm_dashboard_0.1.0_x64_en-US.msi"
     }
   }
 }
