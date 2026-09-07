@@ -1,1 +1,351 @@
-
+{
+  "nations": [
+    {
+      "id": "n1",
+      "name": "Nation Alpha",
+      "continent": "Hagia",
+      "independent": false
+    },
+    {
+      "id": "n2",
+      "name": "Nation Bravo",
+      "continent": "Quolin",
+      "independent": false
+    },
+    {
+      "id": "n3",
+      "name": "Nation Charlie",
+      "continent": "Gweryd",
+      "independent": false
+    },
+    {
+      "id": "n4",
+      "name": "Nation Delta",
+      "continent": "Tellis",
+      "independent": false
+    },
+    {
+      "id": "n5",
+      "name": "Nation Echo",
+      "continent": "Valdayn",
+      "independent": false
+    },
+    {
+      "id": "n6",
+      "name": "Nation Foxtrot",
+      "continent": "Cuotl",
+      "independent": false
+    }
+  ],
+  "capitals": {
+    "Hagia": null,
+    "Quolin": null,
+    "Gweryd": null,
+    "Tellis": null,
+    "Valdayn": null,
+    "Cuotl": null,
+    "Ebernia": null,
+    "Dorado": null
+  },
+  "milestoneDefs": [
+    {
+      "id": "m1",
+      "name": "Pave The Path",
+      "category": "progress",
+      "pts": 5,
+      "reqs": "",
+      "desc": "Additional Logistical Points and allows for Logistical Milestones."
+    },
+    {
+      "id": "m2",
+      "name": "Library of Alexandria 2.0",
+      "category": "progress",
+      "pts": 5,
+      "reqs": "",
+      "desc": "Additional Logistical points."
+    },
+    {
+      "id": "m3",
+      "name": "Fly My Pretties!",
+      "category": "progress",
+      "pts": 5,
+      "reqs": "",
+      "desc": "Additional Logistical and Offensive points."
+    },
+    {
+      "id": "m4",
+      "name": "A Shipwright's Dream",
+      "category": "progress",
+      "pts": 5,
+      "reqs": "",
+      "desc": "Naval invasions available."
+    },
+    {
+      "id": "m5",
+      "name": "A Singular Pursuit",
+      "category": "progress",
+      "pts": 5,
+      "reqs": "",
+      "desc": "Custom organization bonuses."
+    },
+    {
+      "id": "m6",
+      "name": "Do You Like My Drip?",
+      "category": "progress",
+      "pts": 5,
+      "reqs": "",
+      "desc": "Allows Defensive/Offensive Milestones."
+    },
+    {
+      "id": "m7",
+      "name": "Engineering Workshop",
+      "category": "advancement",
+      "pts": 10,
+      "reqs": "Pave the Path",
+      "desc": "Mandatory first step for complex forts."
+    },
+    {
+      "id": "m8",
+      "name": "Can You Hear Me Now?",
+      "category": "advancement",
+      "pts": 10,
+      "reqs": "Fly My Pretties!",
+      "desc": "Communications Hub."
+    },
+    {
+      "id": "m9",
+      "name": "Take To The Skys",
+      "category": "advancement",
+      "pts": 10,
+      "reqs": "Library",
+      "desc": "Air Superiority modifier."
+    },
+    {
+      "id": "m10",
+      "name": "I Call This Gun \"Law & Order\"",
+      "category": "advancement",
+      "pts": 10,
+      "reqs": "Library",
+      "desc": "Unlocked Firearms."
+    },
+    {
+      "id": "m11",
+      "name": "Entrenchement",
+      "category": "defensive",
+      "pts": 5,
+      "reqs": "",
+      "desc": "Heavily entrenches borders."
+    },
+    {
+      "id": "m12",
+      "name": "The Citadel / Grand Fort",
+      "category": "defensive",
+      "pts": 15,
+      "reqs": "",
+      "desc": "Massive defensive anchor."
+    },
+    {
+      "id": "m13",
+      "name": "Hidden Bunkers & Tunnels",
+      "category": "defensive",
+      "pts": 5,
+      "reqs": "",
+      "desc": "Allows rapid redeployment."
+    },
+    {
+      "id": "m14",
+      "name": "Heavy Emplacements",
+      "category": "defensive",
+      "pts": 10,
+      "reqs": "",
+      "desc": "Counter to siege tactics."
+    },
+    {
+      "id": "m15",
+      "name": "Booby Traps & Minefields",
+      "category": "defensive",
+      "pts": 5,
+      "reqs": "",
+      "desc": "Depletes attacker timer/points on entry."
+    },
+    {
+      "id": "m16",
+      "name": "The Scorched Earth Decree",
+      "category": "defensive",
+      "pts": -20,
+      "reqs": "",
+      "desc": "Destroys checkpoint entirely."
+    },
+    {
+      "id": "m17",
+      "name": "Forward Siege Camps",
+      "category": "offensive",
+      "pts": 10,
+      "reqs": "",
+      "desc": "Sustained pressure."
+    },
+    {
+      "id": "m18",
+      "name": "War Academy",
+      "category": "offensive",
+      "pts": 10,
+      "reqs": "",
+      "desc": "Elite troops for open combat."
+    },
+    {
+      "id": "m19",
+      "name": "Artillery Foundry",
+      "category": "offensive",
+      "pts": 15,
+      "reqs": "Engineering Workshop",
+      "desc": "Counters entrenchments."
+    },
+    {
+      "id": "m20",
+      "name": "Scout Outposts / Watchtowers",
+      "category": "logistical",
+      "pts": 5,
+      "reqs": "",
+      "desc": "Dictate terrain or gain checkpoint."
+    },
+    {
+      "id": "m21",
+      "name": "Supply Depots",
+      "category": "logistical",
+      "pts": 10,
+      "reqs": "",
+      "desc": "Overtime reinforcements."
+    },
+    {
+      "id": "m22",
+      "name": "Naval Ports / Shipyards",
+      "category": "logistical",
+      "pts": 15,
+      "reqs": "",
+      "desc": "Unlocks Naval Tactics."
+    },
+    {
+      "id": "m23",
+      "name": "Cavalry Stables",
+      "category": "logistical",
+      "pts": 10,
+      "reqs": "",
+      "desc": "Mobility for double assaults."
+    },
+    {
+      "id": "m24",
+      "name": "Sapper Corps",
+      "category": "logistical",
+      "pts": 5,
+      "reqs": "War Academy",
+      "desc": "Bypasses defenses."
+    },
+    {
+      "id": "m25",
+      "name": "Alchemist Guild",
+      "category": "logistical",
+      "pts": 15,
+      "reqs": "Engineering Workshop",
+      "desc": "Chemical Area Denial."
+    },
+    {
+      "id": "m26",
+      "name": "Field Hospitals",
+      "category": "logistical",
+      "pts": 10,
+      "reqs": "",
+      "desc": "Reduces momentum loss."
+    },
+    {
+      "id": "m27",
+      "name": "Military Roads & Railways",
+      "category": "logistical",
+      "pts": 5,
+      "reqs": "",
+      "desc": "Rapid reinforcement between nodes."
+    },
+    {
+      "id": "m28",
+      "name": "Black Markets",
+      "category": "logistical",
+      "pts": 10,
+      "reqs": "",
+      "desc": "Bypass embargoes."
+    }
+  ],
+  "milestones": {
+    "Hagia": {},
+    "Quolin": {},
+    "Gweryd": {},
+    "Tellis": {},
+    "Valdayn": {},
+    "Cuotl": {},
+    "Ebernia": {},
+    "Dorado": {}
+  },
+  "locations": [
+    {
+      "id": "l1",
+      "name": "Alpha Outpost",
+      "type": "Outpost",
+      "continent": "Hagia",
+      "ownerId": "n1",
+      "modifiers": [
+        {
+          "name": "Wooden Palisade",
+          "pts": 5
+        }
+      ]
+    },
+    {
+      "id": "l2",
+      "name": "Bravo Stronghold",
+      "type": "Stronghold",
+      "continent": "Quolin",
+      "ownerId": "n2",
+      "modifiers": [
+        {
+          "name": "Entrenchement",
+          "pts": 5
+        }
+      ]
+    }
+  ],
+  "wars": [],
+  "freeplayMap": {
+    "A": {
+      "x": 10,
+      "y": 10,
+      "owner": "G1",
+      "modifiers": []
+    },
+    "B": {
+      "x": 30,
+      "y": 25,
+      "owner": "G1",
+      "modifiers": []
+    },
+    "C": {
+      "x": 50,
+      "y": 40,
+      "owner": "Neutral",
+      "modifiers": []
+    },
+    "D": {
+      "x": 70,
+      "y": 60,
+      "owner": "G2",
+      "modifiers": []
+    },
+    "E": {
+      "x": 90,
+      "y": 80,
+      "owner": "G2",
+      "modifiers": []
+    }
+  },
+  "freeplayTempMods": {
+    "g1": [],
+    "g2": []
+  }
+}
