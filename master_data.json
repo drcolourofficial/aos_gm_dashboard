@@ -394,8 +394,22 @@
     }
   ],
   "milestones": {
-    "Hagia": {},
-    "Quolin": {},
+    "Hagia": {
+      "Pave The Path": {
+        "builder": "",
+        "status": "in_progress"
+      },
+      "Do You Like My Drip?": {
+        "builder": "",
+        "status": "completed"
+      }
+    },
+    "Quolin": {
+      "Do You Like My Drip?": {
+        "builder": "",
+        "status": "completed"
+      }
+    },
     "Gweryd": {
       "Pave The Path": {
         "builder": "",
@@ -418,9 +432,24 @@
         "status": "completed"
       }
     },
-    "Tellis": {},
-    "Valdayn": {},
-    "Cuotl": {},
+    "Tellis": {
+      "Do You Like My Drip?": {
+        "builder": "",
+        "status": "completed"
+      }
+    },
+    "Valdayn": {
+      "Do You Like My Drip?": {
+        "builder": "",
+        "status": "completed"
+      }
+    },
+    "Cuotl": {
+      "Do You Like My Drip?": {
+        "builder": "",
+        "status": "completed"
+      }
+    },
     "Ebernia": {},
     "Dorado": {}
   },
@@ -448,8 +477,8 @@
       "modifiers": []
     },
     "B": {
-      "x": 30,
-      "y": 25,
+      "x": 22.379849449913145,
+      "y": 60.218131188118804,
       "owner": "G1",
       "modifiers": []
     },
