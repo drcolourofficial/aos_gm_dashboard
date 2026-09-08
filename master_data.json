@@ -396,7 +396,28 @@
   "milestones": {
     "Hagia": {},
     "Quolin": {},
-    "Gweryd": {},
+    "Gweryd": {
+      "Pave The Path": {
+        "builder": "",
+        "status": "in_progress"
+      },
+      "Library of Alexandria 2.0": {
+        "builder": "1788831187146",
+        "status": "completed"
+      },
+      "Fly My Pretties!": {
+        "builder": "",
+        "status": "in_progress"
+      },
+      "A Singular Pursuit": {
+        "builder": "",
+        "status": "in_progress"
+      },
+      "Do You Like My Drip?": {
+        "builder": "1788831211875",
+        "status": "completed"
+      }
+    },
     "Tellis": {},
     "Valdayn": {},
     "Cuotl": {},
