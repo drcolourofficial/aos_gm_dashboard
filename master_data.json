@@ -143,6 +143,18 @@
       "name": "Bernmark",
       "continent": "Ebernia",
       "independent": false
+    },
+    {
+      "id": "1788831506161",
+      "name": "Puerto Carmesia",
+      "continent": "Dorado",
+      "independent": false
+    },
+    {
+      "id": "1788831516693",
+      "name": "Korban",
+      "continent": "Dorado",
+      "independent": false
     }
   ],
   "capitals": {
@@ -153,7 +165,7 @@
     "Valdayn": "1788831374763",
     "Cuotl": "1788831245406",
     "Ebernia": "1788831384340",
-    "Dorado": null
+    "Dorado": "1788831506161"
   },
   "milestoneDefs": [
     {
