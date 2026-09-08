@@ -2,49 +2,157 @@
   "nations": [
     {
       "id": "n1",
-      "name": "Nation Alpha",
+      "name": "Temporis",
       "continent": "Hagia",
       "independent": false
     },
     {
-      "id": "n2",
-      "name": "Nation Bravo",
-      "continent": "Quolin",
+      "id": "1788831125599",
+      "name": "Caer Prima",
+      "continent": "Hagia",
       "independent": false
     },
     {
-      "id": "n3",
-      "name": "Nation Charlie",
-      "continent": "Gweryd",
-      "independent": false
-    },
-    {
-      "id": "n4",
-      "name": "Nation Delta",
+      "id": "1788831134588",
+      "name": "Portunus",
       "continent": "Tellis",
       "independent": false
     },
     {
-      "id": "n5",
-      "name": "Nation Echo",
+      "id": "1788831142707",
+      "name": "Aeriedale",
+      "continent": "Tellis",
+      "independent": false
+    },
+    {
+      "id": "1788831154113",
+      "name": "Greyhaven",
+      "continent": "Tellis",
+      "independent": false
+    },
+    {
+      "id": "1788831164635",
+      "name": "Astraluun",
+      "continent": "Gweryd",
+      "independent": false
+    },
+    {
+      "id": "1788831171494",
+      "name": "Sunderside",
+      "continent": "Gweryd",
+      "independent": false
+    },
+    {
+      "id": "1788831187146",
+      "name": "Meridienne",
+      "continent": "Gweryd",
+      "independent": false
+    },
+    {
+      "id": "1788831197027",
+      "name": "Ignivar",
+      "continent": "Gweryd",
+      "independent": false
+    },
+    {
+      "id": "1788831211875",
+      "name": "Novralia",
+      "continent": "Gweryd",
+      "independent": false
+    },
+    {
+      "id": "1788831235169",
+      "name": "Takashima",
+      "continent": "Cuotl",
+      "independent": false
+    },
+    {
+      "id": "1788831245406",
+      "name": "Bellezza",
+      "continent": "Cuotl",
+      "independent": false
+    },
+    {
+      "id": "1788831257886",
+      "name": "Bronzegard",
+      "continent": "Gweryd",
+      "independent": false
+    },
+    {
+      "id": "1788831271794",
+      "name": "Wyrm's Rest",
+      "continent": "Cuotl",
+      "independent": false
+    },
+    {
+      "id": "1788831279129",
+      "name": "Orth",
+      "continent": "Cuotl",
+      "independent": false
+    },
+    {
+      "id": "1788831298890",
+      "name": "Uruda",
+      "continent": "Quolin",
+      "independent": false
+    },
+    {
+      "id": "1788831308383",
+      "name": "Jonas Reach",
+      "continent": "Quolin",
+      "independent": false
+    },
+    {
+      "id": "1788831314121",
+      "name": "Effessar",
+      "continent": "Quolin",
+      "independent": false
+    },
+    {
+      "id": "1788831341971",
+      "name": "Galdea Rivers",
+      "continent": "Quolin",
+      "independent": false
+    },
+    {
+      "id": "1788831352492",
+      "name": "Bramblewood",
+      "continent": "Quolin",
+      "independent": false
+    },
+    {
+      "id": "1788831357044",
+      "name": "Elora",
+      "continent": "Quolin",
+      "independent": false
+    },
+    {
+      "id": "1788831365034",
+      "name": "Sunrift",
       "continent": "Valdayn",
       "independent": false
     },
     {
-      "id": "n6",
-      "name": "Nation Foxtrot",
-      "continent": "Cuotl",
+      "id": "1788831374763",
+      "name": "U'lath",
+      "continent": "Valdayn",
+      "independent": false
+    },
+    {
+      "id": "1788831384340",
+      "name": "Bernmark",
+      "continent": "Ebernia",
       "independent": false
     }
   ],
   "capitals": {
-    "Hagia": null,
-    "Quolin": null,
-    "Gweryd": null,
-    "Tellis": null,
-    "Valdayn": null,
-    "Cuotl": null,
-    "Ebernia": null,
+    "Hagia": "n1",
+    "Quolin": "1788831298890",
+    "Gweryd": "1788831257886",
+    "Tellis": "1788831154113",
+    "Valdayn": "1788831374763",
+    "Cuotl": "1788831245406",
+    "Ebernia": "1788831384340",
     "Dorado": null
   },
   "milestoneDefs": [
@@ -293,19 +401,6 @@
       "modifiers": [
         {
           "name": "Wooden Palisade",
-          "pts": 5
-        }
-      ]
-    },
-    {
-      "id": "l2",
-      "name": "Bravo Stronghold",
-      "type": "Stronghold",
-      "continent": "Quolin",
-      "ownerId": "n2",
-      "modifiers": [
-        {
-          "name": "Entrenchement",
           "pts": 5
         }
       ]
