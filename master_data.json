@@ -401,11 +401,15 @@
       },
       "Do You Like My Drip?": {
         "builder": "",
-        "status": "completed"
+        "status": "in_progress"
       }
     },
     "Quolin": {
       "Do You Like My Drip?": {
+        "builder": "",
+        "status": "completed"
+      },
+      "Library of Alexandria 2.0": {
         "builder": "",
         "status": "completed"
       }
@@ -419,14 +423,6 @@
         "builder": "1788831187146",
         "status": "completed"
       },
-      "Fly My Pretties!": {
-        "builder": "",
-        "status": "in_progress"
-      },
-      "A Singular Pursuit": {
-        "builder": "",
-        "status": "in_progress"
-      },
       "Do You Like My Drip?": {
         "builder": "1788831211875",
         "status": "completed"
@@ -435,11 +431,19 @@
     "Tellis": {
       "Do You Like My Drip?": {
         "builder": "",
-        "status": "completed"
+        "status": "in_progress"
       }
     },
     "Valdayn": {
       "Do You Like My Drip?": {
+        "builder": "",
+        "status": "completed"
+      },
+      "Pave The Path": {
+        "builder": "",
+        "status": "in_progress"
+      },
+      "Library of Alexandria 2.0": {
         "builder": "",
         "status": "completed"
       }
@@ -450,8 +454,18 @@
         "status": "completed"
       }
     },
-    "Ebernia": {},
-    "Dorado": {}
+    "Ebernia": {
+      "Do You Like My Drip?": {
+        "builder": "",
+        "status": "completed"
+      }
+    },
+    "Dorado": {
+      "Do You Like My Drip?": {
+        "builder": "",
+        "status": "completed"
+      }
+    }
   },
   "locations": [
     {
